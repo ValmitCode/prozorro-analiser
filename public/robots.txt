@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /node_modules/
+Disallow: /build/
+Disallow: /src/
+Disallow: /*.json$
+Disallow: /*.md$
+Disallow: /apischka

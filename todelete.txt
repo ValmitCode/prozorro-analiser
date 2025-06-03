@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "question": "komar",
+  "answer"
+},
+{
+  "id": 1,
+  "tender_id": "komar",
+  "status": "good",
+  "description": "cartochka",
+  "link": "https://stackoverflow.com/questions/47904283/react-router-redux-redirect-to-absolute-url"
+}
